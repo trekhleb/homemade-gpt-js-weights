@@ -10,6 +10,9 @@
           "fileName": {
             "type": "string"
           },
+          "fileSize": {
+            "type": "string"
+          },
           "modelVariant": {
             "type": "string",
             "enum": ["gpt-pico", "gpt-nano", "gpt-micro", "gpt-mini", "gpt2"]
@@ -22,7 +25,7 @@
             "type": "number"
           }
         },
-        "required": ["fileName", "modelVariant", "datasetId", "testLoss"],
+        "required": ["fileName", "fileSize", "modelVariant", "datasetId", "testLoss"],
         "additionalProperties": false
       }
     }
