@@ -1,11 +1,11 @@
 {
   "weights": [
     {
-      "fileName": "weights/gpt-pico--shakespeare--2p22.json",
-      "fileSize": "~99Kb",
-      "modelVariant": "gpt-pico",
+      "fileName": "weights/gpt-nano--shakespeare--1p94.json",
+      "fileSize": "~107Kb",
+      "modelVariant": "gpt-nano",
       "datasetId": "shakespeare",
-      "testLoss": 2.22
+      "testLoss": 1.94
     },
     {
       "fileName": "weights/gpt-pico--recipes--2p08.json",
@@ -13,6 +13,13 @@
       "modelVariant": "gpt-pico",
       "datasetId": "recipes",
       "testLoss": 2.08
+    },
+    {
+      "fileName": "weights/gpt-pico--shakespeare--2p22.json",
+      "fileSize": "~99Kb",
+      "modelVariant": "gpt-pico",
+      "datasetId": "shakespeare",
+      "testLoss": 2.22
     }
   ]
 }
