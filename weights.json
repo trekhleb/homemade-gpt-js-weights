@@ -1,6 +1,13 @@
 {
   "weights": [
     {
+      "fileName": "weights/gpt-nano--recipes--1p24.json",
+      "fileSize": "~1Mb",
+      "modelVariant": "gpt-nano",
+      "datasetId": "recipes",
+      "testLoss": 1.24
+    },
+    {
       "fileName": "weights/gpt-nano--shakespeare--1p94.json",
       "fileSize": "~1Mb",
       "modelVariant": "gpt-nano",
