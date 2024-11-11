@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "weights": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "fileName": {
+            "type": "string"
+          },
+          "modelVariant": {
+            "type": "string",
+            "enum": ["gpt-pico", "gpt-nano", "gpt-micro", "gpt-mini", "gpt2"]
+          },
+          "datasetId": {
+            "type": "string",
+            "enum": ["shakespeare", "recipes"]
+          },
+          "testLoss": {
+            "type": "number"
+          }
+        },
+        "required": ["fileName", "modelVariant", "datasetId", "testLoss"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["weights"],
+  "additionalProperties": false
+}

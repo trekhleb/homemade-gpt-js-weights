@@ -1,3 +1,5 @@
-# Weights for the Homemade GPT JS models
+# Homemade GPT JS weights
 
-See https://trekhleb.dev/homemade-gpt-js/ and https://github.com/trekhleb/homemade-gpt-js
+See the following for the context:
+- [Homemade GPT JS Playground](https://trekhleb.dev/homemade-gpt-js/)
+- [Homemade GPT JS Source Code](https://github.com/trekhleb/homemade-gpt-js)
