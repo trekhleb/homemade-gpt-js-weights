@@ -6,13 +6,6 @@
       "modelVariant": "gpt-pico",
       "datasetId": "shakespeare",
       "testLoss": 2.22
-    },
-    {
-      "fileName": "weights/gpt-pico--shakespeare--2p22.json",
-      "fileSize": "~99Kb",
-      "modelVariant": "gpt-pico",
-      "datasetId": "shakespeare",
-      "testLoss": 2.32
     }
   ]
 }
