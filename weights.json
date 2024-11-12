@@ -23,11 +23,11 @@
     },
 
     {
-      "fileName": "weights/gpt-micro--recipes--0p81.json",
+      "fileName": "weights/gpt-micro--recipes--0p63.json",
       "fileSize": "~9Mb",
       "modelVariant": "gpt-micro",
       "datasetId": "recipes",
-      "testLoss": 0.81
+      "testLoss": 0.63
     },
     {
       "fileName": "weights/gpt-nano--recipes--1p24.json",
