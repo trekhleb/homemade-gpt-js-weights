@@ -37,11 +37,11 @@
       "testLoss": 1.05
     },
     {
-      "fileName": "weights/gpt-pico--recipes--2p08.json",
+      "fileName": "weights/gpt-pico--recipes--1p74.json",
       "fileSize": "~107Kb",
       "modelVariant": "gpt-pico",
       "datasetId": "recipes",
-      "testLoss": 2.08
+      "testLoss": 1.74
     }
   ]
 }
