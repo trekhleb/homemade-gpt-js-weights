@@ -1,11 +1,11 @@
 {
   "weights": [
     {
-      "fileName": "weights/gpt-micro--shakespeare--1p65.json",
+      "fileName": "weights/gpt-micro--shakespeare--1p55.json",
       "fileSize": "~8.9Mb",
       "modelVariant": "gpt-micro",
       "datasetId": "shakespeare",
-      "testLoss": 1.65
+      "testLoss": 1.55
     },
     {
       "fileName": "weights/gpt-nano--shakespeare--1p94.json",
