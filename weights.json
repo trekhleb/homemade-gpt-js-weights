@@ -8,11 +8,11 @@
       "testLoss": 1.55
     },
     {
-      "fileName": "weights/gpt-nano--shakespeare--1p87.json",
+      "fileName": "weights/gpt-nano--shakespeare--1p80.json",
       "fileSize": "~1Mb",
       "modelVariant": "gpt-nano",
       "datasetId": "shakespeare",
-      "testLoss": 1.87
+      "testLoss": 1.80
     },
     {
       "fileName": "weights/gpt-pico--shakespeare--2p22.json",
